@@ -1,2 +1,2 @@
 # glowing-engine
-Working with Git
+Working with Git, locally.
