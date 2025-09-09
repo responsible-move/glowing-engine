@@ -6,4 +6,6 @@ app = FastAPI(__name__)
 def version():
     return {'version' : 1}
 
-
+@app.get('/')
+def page():
+    return 'dev'
